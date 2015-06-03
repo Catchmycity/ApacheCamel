@@ -10,6 +10,8 @@
         <module>CallSimpleJavaFunctioninCamel</module>
         <module>ExchangePattern</module>
         <module>CamelCFXWebserviceCurrencyCalculator</module>
+        <module>Multicast</module>
+        <module>MulticastParallelProcessing</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
