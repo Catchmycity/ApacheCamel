@@ -9,6 +9,7 @@
         <module>FileTransfer-Helloworld</module>
         <module>CallSimpleJavaFunctioninCamel</module>
         <module>ExchangePattern</module>
+        <module>CamelCFXWebserviceCurrencyCalculator</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
