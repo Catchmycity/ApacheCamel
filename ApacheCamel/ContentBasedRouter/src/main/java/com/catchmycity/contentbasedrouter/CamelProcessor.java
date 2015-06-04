@@ -14,11 +14,13 @@ import org.apache.camel.impl.DefaultCamelContext;
 /**
  *
  * @author catchmycity
+ * http://www.catchmycity.com/tutorial/content-based-router-apache-camel_106
  */
 public class CamelProcessor {
 
     public static void main(String args[]) throws Exception {
 
+        
         CamelContext context = new DefaultCamelContext();
         context.addRoutes(new RouteBuilder() {
 
@@ -53,6 +55,8 @@ public class CamelProcessor {
 
         //Output:
         //[main] INFO route3 - It is a router c
+        
+//        http://www.catchmycity.com/tutorial/content-based-router-apache-camel_106
     }
 
 }
