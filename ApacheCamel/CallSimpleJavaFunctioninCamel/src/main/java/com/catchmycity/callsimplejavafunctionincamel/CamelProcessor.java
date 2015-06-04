@@ -34,7 +34,6 @@ public class CamelProcessor {
             }
         });
         context.start();
-        Thread.sleep(9000);
 
         ProducerTemplate producer = context.createProducerTemplate();
 

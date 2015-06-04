@@ -12,6 +12,7 @@
         <module>CamelCFXWebserviceCurrencyCalculator</module>
         <module>Multicast</module>
         <module>MulticastParallelProcessing</module>
+        <module>ContentBasedRouter</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
