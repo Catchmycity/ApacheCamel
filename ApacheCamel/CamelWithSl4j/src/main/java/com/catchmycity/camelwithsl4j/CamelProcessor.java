@@ -15,6 +15,7 @@ import org.apache.camel.impl.DefaultCamelContext;
  *
  * @author catchmycity
  *
+ * http://www.catchmycity.com/tutorial/camel-with-sl4j-for-logging-to-avoid-failed-to-load-class-org-slf4j-impl-staticloggerbinder_107
  */
 public class CamelProcessor {
 

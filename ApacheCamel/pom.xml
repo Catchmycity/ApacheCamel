@@ -14,6 +14,7 @@
         <module>MulticastParallelProcessing</module>
         <module>ContentBasedRouter</module>
         <module>CamelWithSl4j</module>
+        <module>MulticastaggregationStrategy</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
