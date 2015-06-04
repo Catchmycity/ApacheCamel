@@ -32,7 +32,6 @@ public class CurrencyCalculator {
             }
         });
         context.start();
-        Thread.sleep(9000);
 
         ProducerTemplate producer = context.createProducerTemplate();
 

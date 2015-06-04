@@ -15,6 +15,7 @@
         <module>ContentBasedRouter</module>
         <module>CamelWithSl4j</module>
         <module>MulticastaggregationStrategy</module>
+        <module>SedaComponent</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
